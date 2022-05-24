@@ -1,0 +1,24 @@
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe.config
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.pdb
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csprojResolveAssemblyReference.cache
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.MainForm.resources
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csproj.GenerateResource.Cache
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.exe
+D:\Semester 4\Prakt. Pemrograman Visual\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.pdb
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe.config
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.pdb
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.MainForm.resources
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csproj.GenerateResource.Cache
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.exe
+C:\Users\ACER\Downloads\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.pdb
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe.config
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.exe
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\bin\Debug\Tugas2LabPV.pdb
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csprojResolveAssemblyReference.cache
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.MainForm.resources
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.csproj.GenerateResource.Cache
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.exe
+D:\Documents\Semester 4\LAB IKLC\LAB PV\Projek\Tugas2LabPV\Tugas2LabPV\obj\Debug\Tugas2LabPV.pdb
